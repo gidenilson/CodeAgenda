@@ -8,11 +8,11 @@ Aplicativo didático desenvolvido em PHP com base no Lumen framework.
 
 ### Pré requisitos do ambiente
 
-* PHP5.6
-* NodeJS
-* NPM
-* Bower
-* Composer
+* [PHP 5.6](https://secure.php.net)
+* [NodeJS](https://nodejs.org)
+* [npm](https://www.npmjs.com)
+* [Bower](http://bower.io)
+* [Composer](https://getcomposer.org)
 
 ### Instalar pacotes e dependências
 
