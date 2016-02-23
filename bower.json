@@ -1,0 +1,22 @@
+{
+  "name": "code-agenda",
+  "description": "Agenda de Contatos em PHP Lumen.",
+  "main": [],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0"
+  },
+  "devDependencies": {},
+  "authors": [
+    "Gidenilson Alves Santiago <gidenilson@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
